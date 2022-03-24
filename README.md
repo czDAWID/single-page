@@ -1,2 +1,2 @@
 # single-page
-SPA for e-commerce system  ineShop 
+SPA for e-commerce system
